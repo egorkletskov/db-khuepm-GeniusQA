@@ -7,6 +7,6 @@ pynput==1.7.6
 keyboard==0.13.5
 mouse==0.7.1
 pydantic==2.5.0
-aiohttp==3.9.0
+aiohttp==3.14.4
 Pillow==10.1.0
 jinja2==3.1.2
